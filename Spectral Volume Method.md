@@ -55,23 +55,28 @@ $$
 ## 目录结构描述
 
 ├── test.py                      // 主程序 </br>
+
 ├── UI     // 图形界面 </br>
-│  ├── Dialog.py </br>
-│  ├── MyFrame.py </br>
-│  ├── Panel.py </br>
+├ &emsp; ├── Dialog.py </br>
+├ &emsp; ├── MyFrame.py </br>
+├ &emsp; ├── Panel.py </br>
+
 ├── SV FOR 1D // 一维空间求解器 </br>
-├   ├── result.txt </br>
-├   ├── RK_solution.py </br>
-├   ├── Division.py </br>
-│   ├── division.txt </br>
-├   ├── Error_calculation.py </br>
-├   ├── SepctrlVolume_1D.py </br>
-├   ├── SV1d.py </br>
-├   L_operator.py </br>
+├ &emsp; ├── result.txt </br>
+├ &emsp; ├── RK_solution.py </br>
+├ &emsp; ├── Division.py </br>
+├ &emsp; ├── division.txt </br>
+├ &emsp; ├── Error_calculation.py </br>
+├ &emsp; ├── SepctrlVolume_1D.py </br>
+├ &emsp; ├── SV1d.py </br>
+├ &emsp; ├── L_operator.py </br>
+
 ├── SV FOR 2D // 二维空间求解器 </br>
-├   ├── Division.py </br>
-├   ├── Error_calculation.py </br>
-├   ├── L_operator.py </br>
-├   ├── RK_solution.py </br>
-├   ├── SepctrlVolume_2D.py </br>
-├   ├── SV2d.py </br>
+├ &emsp; ├── Division.py </br>
+├ &emsp; ├── Error_calculation.py </br>
+├ &emsp; ├── L_operator.py </br>
+├ &emsp; ├── RK_solution.py </br>
+├ &emsp; ├── SepctrlVolume_2D.py </br>
+├ &emsp; ├── SV2d.py </br>
+
+└── Show.py
